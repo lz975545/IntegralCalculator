@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Integral_Calc {
 
     private static double f(double x) {
-        return Math.exp(x);
+        return Math.exp(x);     // used as a "dummy" function, put whatever you want here
     }
 
     // Integrate f from a to b using the trapezoidal rule
